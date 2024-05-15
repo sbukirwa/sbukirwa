@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sbukirwa
 - Msc. Human Computer Interaction
-- 👀 I’m interested in Python, Java and Wordpress
-- 🌱 I’m currently learning Springboot and AI technologies
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently bettering my skills in Deep Learning through hands-on projects.
+- 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me - soniabukirwa@gmail.com
 
 <!---
